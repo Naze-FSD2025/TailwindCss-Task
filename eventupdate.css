@@ -1,0 +1,18 @@
+
+/* Basic CSS */
+body{
+    background:#FFFFFF;
+    font-family: Arial, sans-serif;
+
+  }
+
+
+.image-box{
+    width:150px;
+    height:150px;
+    border:2px solid #a21caf;  /* purple border */
+    border-radius:10px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
